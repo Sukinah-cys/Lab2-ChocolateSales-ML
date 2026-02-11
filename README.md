@@ -17,12 +17,12 @@ Number of Records: 3,282
 Number of Features: 6
 
 ## Key Features:
-Sales Person
-Country
-Product
-Date
-Amount (Target Variable)
-Boxes Shipped
+- Sales Person
+- Country
+- Product
+- Date
+- Amount (Target Variable)
+- Boxes Shipped
 The dataset satisfies the lab requirements as it is tabular, reasonably sized, and suitable for regression analysis.
 
 ## Methodology Overview
