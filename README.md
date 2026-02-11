@@ -6,8 +6,8 @@ The objective of this project is to predict the sales amount of chocolate produc
 This is formulated as a regression problem because the target variable is numerical and continuous. The model is expected to learn the relationship between input features and the sales amount in order to estimate future sales values.
 
 ## Target Variable
-Amount
-The Amount column represents the total sales value for each transaction and serves as the dependent variable in this supervised learning task.
+**Amount**
+The *Amount column* represents the total sales value for each transaction and serves as the dependent variable in this supervised learning task.
 
 ##  Dataset Description
 Dataset Name: Chocolate Sales Dataset
